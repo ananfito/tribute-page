@@ -1,4 +1,6 @@
-### Contents
+# Tribute Page
+
+## Contents
 
 - [About](#about)
 - [Status](#status)
